@@ -1,1 +1,0 @@
-function ಠ_ಠ100(o,m){return o+m}modulo.ಠ_ಠ101=ಠ_ಠ100;
